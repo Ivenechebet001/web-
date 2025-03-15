@@ -1,9 +1,9 @@
-# Predefined values for demonstration (without user input)
+
 num1 = 10
 num2 = 5
 operation = "+"
 
-# Perform the operation and display the result
+
 if operation == "+":
     result = num1 + num2
     print(f"{num1} + {num2} = {result}")
